@@ -1,4 +1,4 @@
-# Prediksi_Gagal_Jantung_AdaBoostClassifier
+# Prediksi Kematian Akibat Penyakit Jantung
 
 ## Latarbelakang
 
