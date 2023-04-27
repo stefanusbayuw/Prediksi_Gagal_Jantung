@@ -6,7 +6,7 @@ Penyakit jantung merupakan salah satu penyakit yang menyebabkan kamtian cukup be
 
 ## Model
 
-Model yang digunakan pada prediksi gagal jantung adalah model Bagging - RandomForestClassifier. Model tersebut digunakan karena memiliki akurasi train 0.984472049689441 dan test 0.8666666666666667 meskipun model yang digunakan masih cenderung overfitting. Selain Model tersebut, saya juga membandingkan dengan beberapa model lain yaitu RandomForestClassifier, AdaBoostClassifier dan Bagging - AdaBoostClassifier namun memiliki nilai kaurasi yang cenderung lebih rendah daan overfitting.
+Model yang digunakan pada prediksi gagal jantung adalah model Bagging - RandomForestClassifier. Model tersebut digunakan karena memiliki akurasi train 0.984472049689441 dan test 0.8666666666666667 meskipun model yang digunakan masih cenderung overfitting. Selain Model tersebut, saya juga membandingkan dengan beberapa model lain yaitu RandomForestClassifier, AdaBoostClassifier dan Bagging - AdaBoostClassifier namun memiliki nilai akurasi yang cenderung lebih rendah daan overfitting.
 
 Model yang dibuat dilakukan oversampling dengan SMOTE karena data yang dimiliki Imbalance.
 
